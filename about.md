@@ -9,6 +9,8 @@ For example, did you know that more than **a billion people** earn ***less than 
 
 Or that you only need to spend **$6 each month** to feed a child?
 
+We used GitHub Pages to publish our website; hope you like it and have a nice day!
+
 Lisence
 ---
 
