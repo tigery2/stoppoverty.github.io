@@ -3,7 +3,7 @@
 About
 ---
 
-[`williamfan2029.github.io/stoppoverty`](stoppoverty.github.io "This is the website you are viewing right now") is created by Avenues Shenzhen students working to campaign for no poverty.
+[`williamfan2029.github.io/stoppoverty`](williamfan2029.github.io/stoppoverty "This is the website you are viewing right now") is created by Avenues Shenzhen students working to campaign for no poverty.
 
 We made this website to let you donate easier and also campaign for #StopPoverty.
 
